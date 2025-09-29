@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				nightfall: {
+					'acid': '#00FF41',
+					'dark': '#000000',
+					'gray': '#808080',
+					'light-gray': '#333333',
+					'muted-gray': '#1a1a1a'
 				}
 			},
 			borderRadius: {
